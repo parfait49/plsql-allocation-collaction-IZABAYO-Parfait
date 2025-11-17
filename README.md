@@ -38,7 +38,4 @@ View the results in the Output tab.
 Clone and Explore
 git clone https://github.com/ub-victor/plsql-allocation-collection.git
 cd plsql-bonus-allocation
-Credits
-Assignment by Lecturer Eric Maniraguha
-Developed by Ushindi Bihame Victoire
-GitHub: ub-victor
+
