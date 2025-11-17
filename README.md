@@ -35,6 +35,6 @@ o	04_run_tests.sql
 3.	Execute each script.
 4.	View the results in the Output tab.
 Clone and Explore
-git clone https://github.com/ub-victor/plsql-allocation-collection.git
+git clone https://github.com/ub-victor/plsql-allocation.git
 cd plsql-bonus-allocation
 
